@@ -1,0 +1,15 @@
+{
+	"name": "spotify-proj22",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6f81c425-fd58-4eb8-9ee4-533ed1eceded",
+		"tenantId": "4d7d9c02-a321-4083-a491-ed6654e6c799"
+	}
+}
